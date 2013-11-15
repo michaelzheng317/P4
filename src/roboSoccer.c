@@ -18,7 +18,7 @@
 
 //just uncomment your bot's hex key to compile for your bot, and comment the other ones out.
 #ifndef HEXKEY
-	#define HEXKEY "00:16:53:0B:A1:4D"	// <--- SET UP YOUR NXT's HEX ID here
+	#define HEXKEY "00:16:53:14:88:A6"	// <--- SET UP YOUR NXT's HEX ID here
 #endif
 
 int main(int argc, char **argv)
