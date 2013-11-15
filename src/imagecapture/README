@@ -1,0 +1,4 @@
+Dependancies:
+	libv4l-dev
+	libjpeg-dev
+	libsdl-image1.2-dev
